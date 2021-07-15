@@ -2,7 +2,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 infuraRinkebyApi =
   "";
-privateKeyRinkeby =
+mnemonic =
   "";
 module.exports = {
   contracts_directory: "./contracts/",

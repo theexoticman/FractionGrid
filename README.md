@@ -12,10 +12,17 @@ Then run
 `$ truffle migrate --network rinkeby`
 
 ## Starting React
+<<<<<<< HEAD
 
 `$ npm start`
 
 Make sure to have a metamask wallet connecter to Rinkeby network.
+=======
+ 
+`$ npm start`
+
+Make sure to have a metamask wallet installed in your browser and connected to Rinkeby network.
+>>>>>>> master
 
 ### `npm start`
 
